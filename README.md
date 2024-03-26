@@ -29,8 +29,8 @@ Here are some ideas to get you started:
 
 ## ⚡ GitHub's Stats
 
-[![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=lnghia&theme=radical)](https://github.com/lnghia/github-readme-stats)
+[![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=lnghia&theme=dark)](https://github.com/lnghia/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lnghia&layout=compact&theme=radical)](https://github.com/lnghia/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lnghia&layout=compact&theme=dark)](https://github.com/lnghia/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lnghia&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lnghia&theme=dark)](https://git.io/streak-stats)
